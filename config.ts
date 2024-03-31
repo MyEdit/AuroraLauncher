@@ -1,4 +1,4 @@
-import {token} from './public.pem';
+import token from './public.pem';
 
 export const window = {
     width: 900,
@@ -13,7 +13,7 @@ export const window = {
 export const api = {
     ws: 'ws://127.0.0.1:1370/ws',
     web: 'http://127.0.0.1:1370',
-    // extraToken: token,
+    extraToken: token,
 };
 
 export const appPath = '.aurora-launcher';
