@@ -1,4 +1,4 @@
-import { publicToken as token } from './public.pem';
+import token from "./public.pem";
 
 export const window = {
     width: 900,
