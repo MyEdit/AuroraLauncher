@@ -3,7 +3,6 @@
         "target": "ESNext",
         "module": "ESNext",
         "lib": ["DOM", "DOM.Iterable", "ESNext"],
-        "moduleResolution": "node16",
         "strict": true,
         "useDefineForClassFields": true,
         "allowJs": false,
