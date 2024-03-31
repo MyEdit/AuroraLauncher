@@ -3,7 +3,7 @@
         "target": "ESNext",
         "module": "ESNext",
         "lib": ["DOM", "DOM.Iterable", "ESNext"],
-        "moduleResolution": "bundler",
+        "moduleResolution": "node16",
         "strict": true,
         "useDefineForClassFields": true,
         "allowJs": false,
