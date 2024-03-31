@@ -1,4 +1,4 @@
-import { token } from 'key/public.pem';
+import { token } from './key/public.pem';
 
 export const window = {
     width: 900,
